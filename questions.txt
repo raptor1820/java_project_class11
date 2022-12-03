@@ -1,0 +1,16 @@
+What is the meaning of life`42`53`63`73`a
+What is the name of the company which makes the Iphone?`Apple`Microsoft`Micromax`Google`a
+What is the capital of India?`Mumbai`Delhi`Chennai`Kolkata`b
+Which company makes Chrome?`Mircosoft`Apple`Amazon`Google`d
+What is the full form of AWS?`All Web Services`Arab Weather Service`Amazon Web Services`Azure Web Services`c
+What are the most popular metasyntactic variables?`foo,bar`far,boo`bat,ball`xyz,abc`a
+What is the full form of CPU?`Central Printing Unit`Central Prime Unit`Central Property Unit`Central Processing Unit`d
+What is 2+2?`2`3`4`5`c
+Who created JavaScript?`Brendan Eich`Linus Torvalds`Walter White`Larry Wall`a
+Who created Unreal Engine?`John Doe`Tim Sweeny`Larry Wall`Steve Jobs`b
+What is the latest USB cable type?`Type A`Type B`Type C`Type D`c
+Which of the following technologies was named after a Viking?`Nord VPN`Viking `Vue`Bluetooth`d
+What is the full form of NPM?`Node Package Manager`New Purple Moon`Novice Prime Minister`New Powered Macros`a
+What is 3x3?`9`10`11`12`a
+What is 4!?`23`64`34`24`d
+What is 5+5?`20`30`10`33`c

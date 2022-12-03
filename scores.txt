@@ -1,0 +1,6 @@
+Ritwic,100
+someone,20
+TestUser12345,20
+someone2,20
+hello1234,30
+SOMEONE,100
